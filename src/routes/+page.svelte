@@ -18,6 +18,8 @@
 		nulla, blanditiis eos, dignissimos et ad excepturi aliquid eaque veniam
 		quaerat placeat earum natus totam voluptatem in quisquam?
 	</p>
+	<a href="/guides">View Guides</a>
+	<a href="/about">About</a>
 	<button on:click={updateTitle}>change title</button>
 	<input type="text" bind:value={title} />
 </div>
